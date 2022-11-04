@@ -17,7 +17,7 @@ public class Lista02 {
 
     /**Procedimento principal que inicia e termina a aplicação*/
     public static void main(String[] args){
-        _Ex_20.Imprime.inicio();
+        _Ex_33.Calculadora_IMC.inicio();
     }/*FIM Método main()*/
 
     /**Procedimento drive: Piloto que conduz a execução do aplicativo*/
@@ -41,7 +41,8 @@ public class Lista02 {
         _Ex_29.ValorCaractere.inicio();/*Exercicio 29*/
         _Ex_30.Separando.inicio();/*Exercicio 30*/
         _Ex_31.QuadradosCubos.inicio();/*Exercicio 31*/
-        _Ex_32.Verifica.inicio();/*Exercicio 32*/       
+        _Ex_32.Verifica.inicio();/*Exercicio 32*/  
+        _Ex_33.Calculadora_IMC.inicio();
 
     }/*FIM Método drive()*/
 
